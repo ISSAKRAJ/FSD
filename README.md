@@ -1,12 +1,9 @@
-Here’s a clean, professional **README** draft for your **Digital Board Project**. It’s structured to be clear for developers, contributors, and users:
 
----
 
 # Digital Board
 
 A modern, interactive digital board application designed for collaboration, brainstorming, and project management. It allows users to create, organize, and share ideas visually in real-time.
 
----
 
 ## 📌 Features
 - **Interactive Canvas**: Drag, drop, and resize notes, tasks, or widgets.
@@ -15,7 +12,7 @@ A modern, interactive digital board application designed for collaboration, brai
 - **Persistence**: Save and load boards with cloud or local storage.
 - **Cross-Platform**: Works on desktop and mobile devices.
 
----
+
 
 ## 🚀 Getting Started
 
